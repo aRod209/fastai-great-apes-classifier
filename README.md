@@ -3,4 +3,4 @@ Using the fastai library to fine tune a ResNet-18 CNN model to classify Great Ap
 
 This project was inspired by following the fast.ai course.
 
-This model was exported and used in a Gradio application hosted on HuggingFace Spaces.
+This model was exported and used in a Gradio application hosted on [HuggingFace Spaces](https://huggingface.co/spaces/robot209/great-apes-classifier).
